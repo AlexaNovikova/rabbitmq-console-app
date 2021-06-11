@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 
 public class ITMessagesSenderApp {
+
     private static final String EXCHANGE_NAME = "ITArticles";
 
     public static void main(String[] argv) throws Exception {
